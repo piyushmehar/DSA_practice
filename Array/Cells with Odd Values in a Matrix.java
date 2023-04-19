@@ -1,9 +1,7 @@
 class Solution {
     public int oddCells(int m, int n, int[][] old) {
-        
         int[][] naya =new int[m][n];
         int x=0;
-
         for(int i=0;i<old.length;i++){
             // x=0;
             for(int j=0;j<n;j++){
