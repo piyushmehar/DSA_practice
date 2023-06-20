@@ -2,7 +2,6 @@
 // Output: 5
 // Explanation: (101) in base 2 = (5) in base 10
 
-
 class Solution {
     public int getDecimalValue(ListNode head) {
         StringBuilder sb = new StringBuilder();
