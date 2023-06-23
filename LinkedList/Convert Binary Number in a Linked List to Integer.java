@@ -13,3 +13,4 @@ class Solution {
         return Integer.parseInt(sb.toString(),2);
     }
 }
+
