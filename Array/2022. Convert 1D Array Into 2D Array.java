@@ -1,4 +1,5 @@
 class Solution {
+    
     public int[][] construct2DArray(int[] original, int m, int n) {
         int[][] arr = new int[m][n];
         int x = original.length;
@@ -13,5 +14,4 @@ class Solution {
         }
         return arr;
     }
-
 }
