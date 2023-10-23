@@ -2,9 +2,7 @@
 // Output: 3->2->1->6->5->4->8->7->NULL 
 // Input: 1->2->3->4->5->6->7->8->NULL, K = 5 
 // Output: 5->4->3->2->1->8->7->6->NULL 
-
-
-
+//hence, this code is to reverse a given linked list
 class Solution
 {
     public static Node reverse(Node node, int k)
